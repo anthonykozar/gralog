@@ -8,4 +8,5 @@
   <plugin location="libs/gralog-modal-mu-calculus.jar" />
   <plugin location="libs/gralog-jgrapht-bridge.jar" />
   <plugin location="libs/gralog-finite-game.jar" />
+  <plugin location="libs/gralog-chip-firing-game.jar" />
 </gralog>

@@ -182,6 +182,12 @@ project(':gralog-finite-game') {
   }
 }
 
+project(':gralog-chip-firing-game') {
+  dependencies {
+    gralog project(':gralog-core')
+  }
+}
+
 project(':gralog-first-order-logic') {
   dependencies {
     gralog project(':gralog-core')
