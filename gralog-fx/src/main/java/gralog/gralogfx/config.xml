@@ -7,4 +7,5 @@
   <plugin location="libs/gralog-computation-tree-logic.jar" />
   <plugin location="libs/gralog-modal-mu-calculus.jar" />
   <plugin location="libs/gralog-jgrapht-bridge.jar" />
+  <plugin location="libs/gralog-finite-game.jar" />
 </gralog>
