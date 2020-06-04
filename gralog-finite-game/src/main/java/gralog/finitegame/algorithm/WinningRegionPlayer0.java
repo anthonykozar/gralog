@@ -44,7 +44,7 @@ public class WinningRegionPlayer0 extends Algorithm {
                 }
 
             if (isTerminal) {
-                result.put(p, p.player1Position ? 0 : 1);
+                result.put(p, p.player1Position ? 1 : 0);
                 lastIteration.add(p);
             }
         }
